@@ -1,0 +1,10 @@
+.body {
+    background-color: black;
+}
+
+.navbar-nav a {
+    font-size: 20px;
+    color: white;
+    border-bottom: 5px;
+    text-align: center;
+}
