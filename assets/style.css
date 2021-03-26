@@ -1,6 +1,12 @@
-.navbar a {
+body {
+    background-color: black;
+    justify-content: center;
+}
+
+.navbar-nav a {
+    text-align: center;
     display: block;
     font-size: 19px;
-    color: rgb(0, 0, 0);
-    border-bottom: 5px solid;
+    color: rgb(255, 255, 255);
+    border-bottom: 2px solid transparent;
 }
